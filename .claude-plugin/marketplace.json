@@ -1,0 +1,16 @@
+{
+  "name": "hormozi",
+  "owner": {
+    "name": "zacker-tech"
+  },
+  "metadata": {
+    "description": "Claude Code skills based on the Alex Hormozi trilogy — $100M Offers, $100M Leads, and $100M Money Models. Frameworks for building offers, getting leads, and structuring revenue."
+  },
+  "plugins": [
+    {
+      "name": "hormozi",
+      "source": "./",
+      "description": "Claude Code skills based on the Alex Hormozi trilogy — $100M Offers, $100M Leads, and $100M Money Models. Frameworks for building offers, getting leads, and structuring revenue."
+    }
+  ]
+}
