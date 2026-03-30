@@ -1,0 +1,10 @@
+{
+  "name": "hormozi",
+  "description": "Claude Code skills based on the Alex Hormozi trilogy - $100M Offers, $100M Leads, and $100M Money Models. Frameworks for building offers, getting leads, and structuring revenue.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zacker-tech"
+  },
+  "repository": "https://github.com/zacker-tech/hormozi-skills",
+  "license": "MIT"
+}
