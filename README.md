@@ -26,6 +26,20 @@ Then in Claude Code:
 /plugin install ~/.claude/plugins/hormozi-skills
 ```
 
+After installing, reload plugins:
+
+```
+/reload-plugins
+```
+
+## Usage
+
+Skills are namespaced under `hormozi:`. Just type the command:
+
+```
+/hormozi:grand-slam-offer
+```
+
 ## Skills
 
 | Skill | Command | When to use |
