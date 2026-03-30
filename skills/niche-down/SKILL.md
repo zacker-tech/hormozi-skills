@@ -1,3 +1,8 @@
+---
+name: niche-down
+description: Choose your target market using Hormozi's niche selection framework
+---
+
 # Niche Down
 
 **Command:** `/niche-down`

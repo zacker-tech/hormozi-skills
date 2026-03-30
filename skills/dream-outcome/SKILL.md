@@ -1,3 +1,8 @@
+---
+name: dream-outcome
+description: Write destination-focused copy that sells the dream outcome, not the vehicle
+---
+
 # Dream Outcome
 
 **Command:** `/dream-outcome`

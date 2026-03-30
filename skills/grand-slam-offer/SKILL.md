@@ -1,3 +1,8 @@
+---
+name: grand-slam-offer
+description: Create an irresistible offer using Hormozi's 5-step Grand Slam Offer framework
+---
+
 # Grand Slam Offer
 
 **Command:** `/grand-slam-offer`

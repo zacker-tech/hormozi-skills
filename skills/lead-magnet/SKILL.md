@@ -1,3 +1,8 @@
+---
+name: lead-magnet
+description: Build a free lead magnet offer using Hormozi's 7-step framework
+---
+
 # Lead Magnet
 
 **Command:** `/lead-magnet`

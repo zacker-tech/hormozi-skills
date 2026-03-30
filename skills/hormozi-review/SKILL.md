@@ -1,3 +1,8 @@
+---
+name: hormozi-review
+description: Gut-check any business decision against principles from all three Hormozi books
+---
+
 # Hormozi Review
 
 **Command:** `/hormozi-review`

@@ -1,3 +1,8 @@
+---
+name: value-equation
+description: Price and improve your offer using Hormozi's Value Equation framework
+---
+
 # Value Equation
 
 **Command:** `/value-equation`

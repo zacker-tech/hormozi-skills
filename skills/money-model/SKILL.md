@@ -1,3 +1,8 @@
+---
+name: money-model
+description: Structure your revenue model with attraction, upsell, downsell, and continuity offers
+---
+
 # Money Model
 
 **Command:** `/money-model`

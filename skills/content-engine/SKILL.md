@@ -1,3 +1,8 @@
+---
+name: content-engine
+description: Turn your expertise into a lead-generating content system
+---
+
 # Content Engine
 
 **Command:** `/content-engine`

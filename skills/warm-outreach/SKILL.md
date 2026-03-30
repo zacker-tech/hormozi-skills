@@ -1,3 +1,8 @@
+---
+name: warm-outreach
+description: Get first customers from your network using the Compliment-Bridge-Ask framework
+---
+
 # Warm Outreach
 
 **Command:** `/warm-outreach`

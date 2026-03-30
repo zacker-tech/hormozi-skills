@@ -1,3 +1,8 @@
+---
+name: core-four
+description: Choose your primary customer acquisition method using the Core Four framework
+---
+
 # Core Four
 
 **Command:** `/core-four`
